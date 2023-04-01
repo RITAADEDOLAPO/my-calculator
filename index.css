@@ -52,6 +52,7 @@ button {
     .container{
         height: 50vh;
         width: 90vw; 
+        padding-bottom: 70px;
     }
 }
 
